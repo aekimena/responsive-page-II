@@ -181,14 +181,6 @@ nav {
  }
 
 @media screen and (max-width: 767px) {
-   .block-5 {
-    margin-top: 3rem;
-   }
-
-   .block-5-row {
-    display: block;
-    
-   }
 
    .txt-block-5 {
     margin-top: 0;
