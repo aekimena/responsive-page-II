@@ -105,13 +105,13 @@ nav {
     background-image:url(trucks/img-1.jpg);
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index: -2;
+
+
 }
 
-.block-5 {
-    margin-top: -7rem;
-}
+
+
+
 
 .block-5-row {
     display: flex;
