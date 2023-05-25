@@ -134,7 +134,6 @@ nav {
 .txt-block-5 {
     background: yellow;
     padding: 1rem;
-    margin-top: 2rem;
 }
 
 .txt-block-6 {
@@ -175,14 +174,9 @@ nav {
 }
 
 @media screen and (max-width: 992px) {
-    .txt-block-5 {
-     margin-top: 4rem;
-    }
+    
  }
 
 @media screen and (max-width: 767px) {
 
-   .txt-block-5 {
-    margin-top: 0;
-   }
 }
